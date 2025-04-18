@@ -30,7 +30,8 @@
 
 - :memo: [Instrução `if .. elif .. else`](Notebooks/02_ControleFluxo/01_instrucao_if.ipynb)
 - :memo: [Instrução `for`](Notebooks/02_ControleFluxo/02_instrucao_for.ipynb)
-- :memo: [Função `range()`](Notebooks/02_ControleFluxo/03_funcao_range.ipynb)
+- :memo: [A Função `range()`](Notebooks/02_ControleFluxo/03_funcao_range.ipynb)
+- :memo: [Instruções `break` e `continue`](Notebooks/02_ControleFluxo/03_funcao_range.ipynb)
 
 <br/>
 
