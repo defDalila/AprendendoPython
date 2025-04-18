@@ -32,7 +32,7 @@
 - :memo: [Instrução `for`](Notebooks/02_ControleFluxo/02_instrucao_for.ipynb)
 - :memo: [A Função `range()`](Notebooks/02_ControleFluxo/03_funcao_range.ipynb)
 - :memo: [Instruções `break` e `continue`](Notebooks/02_ControleFluxo/03_funcao_range.ipynb)
-
+    - 🎲 Exemplo de código: [Jogo da Advinhação](Exemplos/jogo_advinhacao.py)
 <br/>
 
 ## Referências 🔎
