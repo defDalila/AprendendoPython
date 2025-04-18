@@ -1,4 +1,19 @@
-# Aprendendo Python 🧠
+<p align="center" style="font-size:46px;font-weight:600">Learning Python</p>
+
+<br>
+
+
+<p align="center">
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer external" title="Python.org"> <img src="img/py.svg" height="40px" /></a>
+<a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer external" title="Jupyter.org"><img src="img/jupyter.png" height="40px" width="40px" background-color="#242938"/></a>
+<a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer external" title="Markdown Guide"> <img src="img/md.svg" height="40px"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer external" title="Página VSCode"> <img src="img/vscode.svg" height="40px"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer external" title="Página Git"> <img src="img/git.svg" height="40px"/></a>
+<a href="https://github.com/" target="_blank" rel="noopener noreferrer external" title="Página Github"> <img src="img/gh.svg" height="40px"/></a><br/>
+<em><i>Ferramentas utilizadas</i></em>
+</p>
+
+
 
 <br>
 
