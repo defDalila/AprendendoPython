@@ -1,6 +1,6 @@
 <h1 align="center">Learning Python</h1>
    
-
+<br>
 
 <div align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/status-in_progress-darkturquoise"> 
