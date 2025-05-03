@@ -49,12 +49,15 @@
 - 📝 [Definindo funções](Notebooks/02_ControleFluxo/08_funcoes.ipynb)
 - 📝 [Tipos  de argumentos das funções](Notebooks/02_ControleFluxo/09_argumentos.ipynb)
 - 📝 [Expressões lambda](Notebooks/02_ControleFluxo/10_func_lambda.ipynb)
+- 📝 [Anotações de função](Notebooks/02_ControleFluxo/11_func_annotations.ipynb)
+- 📝 [Coding Style](Notebooks/02_ControleFluxo/12_coding_style.ipynb)
 
 <br>
 
 ### 💻 Tópicos Especiais 
 
 - 📝 [Decorators em Python](Notebooks/11_Topicos_Especiais/01_decorators.ipynb)
+- 📝 [Generators em Python](Notebooks/11_Topicos_Especiais/02_generators.ipynb)
 
 
 <br>
