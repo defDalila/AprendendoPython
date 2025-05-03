@@ -36,14 +36,21 @@
   
 <br>
 
-### 💻 Ferramentas de Controle de Fluxo 
+### 💻 `Ferramentas` de Controle de `Fluxo` 
 
-- :memo: [Instrução `if .. elif .. else`](Notebooks/02_ControleFluxo/01_instrucao_if.ipynb)
-- :memo: [Instrução `for`](Notebooks/02_ControleFluxo/02_instrucao_for.ipynb)
-- :memo: [A Função `range()`](Notebooks/02_ControleFluxo/03_funcao_range.ipynb)
-- :memo: [Instruções `break` e `continue`](Notebooks/02_ControleFluxo/03_funcao_range.ipynb)
+- 📝 [Instrução `if .. elif .. else`](Notebooks/02_ControleFluxo/01_instrucao_if.ipynb)
+- 📝 [Instrução `for`](Notebooks/02_ControleFluxo/02_instrucao_for.ipynb)
+- 📝[A Função `range()`](Notebooks/02_ControleFluxo/03_funcao_range.ipynb)
+- 📝 [Instruções `break` e `continue`](Notebooks/02_ControleFluxo/03_funcao_range.ipynb)
     - 🎲 Exemplo de código: [Jogo da Advinhação](Exemplos/jogo_advinhacao.py)
-<br/>
+- 📝 [Cláusulas `else` em laços](Notebooks/02_ControleFluxo/05_else_em_lacos.ipynb)
+- 📝 [Instruções `pass`](Notebooks/02_ControleFluxo/06_pass.ipynb)
+- 📝 [Instruções `match`](Notebooks/02_ControleFluxo/07_match.ipynb)
+- 📝 [Definindo funções](Notebooks/02_ControleFluxo/08_funcoes.ipynb)
+- 📝 [Tipos  de argumentos das funções](Notebooks/02_ControleFluxo/09_argumentos.ipynb)
+- 📝 [Expressões lambda](Notebooks/02_ControleFluxo/10_func_lambda.ipynb)
+
+<br>
 
 ## Referências 🔎
 
