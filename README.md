@@ -52,6 +52,14 @@
 
 <br>
 
+### 💻 Tópicos Especiais 
+
+- 📝 [Decorators em Python](Notebooks/11_Topicos_Especiais/01_decorators.ipynb)
+
+
+<br>
+<br>
+
 ## Referências 🔎
 
 
